@@ -2,19 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.1">
+<section class="release" id="unreleased">
 
-## 0.0.1 (2024-06-11)
-
-<section class="features">
-
-### Features
-
--   [`5d9a6c0`](https://github.com/stdlib-js/stdlib/commit/5d9a6c09fdc79952164cbe2869729d9dca8e1d36) - add `blas/base/layout-enum2str` and `blas/base/layout-str2enum`
-
-</section>
-
-<!-- /.features -->
+## Unreleased (2024-07-01)
 
 <section class="commits">
 
@@ -22,7 +12,7 @@
 
 <details>
 
--   [`5d9a6c0`](https://github.com/stdlib-js/stdlib/commit/5d9a6c09fdc79952164cbe2869729d9dca8e1d36) - **feat:** add `blas/base/layout-enum2str` and `blas/base/layout-str2enum` _(by Athan Reines)_
+-   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
 
 </details>
 
