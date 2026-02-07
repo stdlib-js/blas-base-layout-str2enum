@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@deno/mod.js';
+import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@v0.0.3-deno/mod.js';
 ```
 
 #### str2enum( layout )
@@ -96,7 +96,7 @@ var v = str2enum( 'beep' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@deno/mod.js';
+import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@v0.0.3-deno/mod.js';
 
 var v = str2enum( 'row-major' );
 // returns <number>
